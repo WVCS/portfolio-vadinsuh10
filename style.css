@@ -32,4 +32,6 @@ p{
   font-family: Times New roman;
   font-size: 120%;}
 
-background-color: #333;
+.active {
+  background-color: #4CAF50;
+}
